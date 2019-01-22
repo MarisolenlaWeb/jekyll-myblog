@@ -27,7 +27,7 @@ github_username:  jekyll
 # Build settings
 encoding: UTF-8
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
